@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+.vscode
+.temp
+.vitepress
+.cache
+*.iml
+__pycache__
+/node_modules
+/solution/result.json
+/solution/__pycache__
+/solution/.env
